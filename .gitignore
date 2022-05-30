@@ -1,0 +1,6 @@
+forontend/node_modules
+frontend/.env*
+forntend/yarn-debug.log*
+
+server/node_modules
+server/.env*
